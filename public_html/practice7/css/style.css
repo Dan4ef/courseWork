@@ -102,6 +102,14 @@ body {
   border-top: .2rem solid  #4981b3!important;
 }
 
+.border-primarya {
+  border-top: .5rem double  #8C4448!important;
+}
+
+.mine-4{
+    text-align: center;
+}
+
 .carousel-caption  h3 {
   font-size: 2.2rem;
   text-shadow: .1rem .1rem .2rem rgba(0, 0, 0, 1);
